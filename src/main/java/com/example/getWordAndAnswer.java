@@ -87,8 +87,10 @@ public class getWordAndAnswer
 	@GET
 	@Path("/countWords")
 	@Produces(MediaType.APPLICATION_JSON)
-	public int countWords() 
+	public String countWords() 
 	{
+		
+		String Count = "0";
 		wordsMap = initUtil.initWordsMap(wordsMap);
 				
 		for (String[] key : wordsMap.keySet())
@@ -98,7 +100,7 @@ public class getWordAndAnswer
 				count++;
 			}
 		}
-		
-		return count;
+		Count = "" + count + "";
+		return Count;
 	}
 }
