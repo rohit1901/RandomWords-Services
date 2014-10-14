@@ -34,6 +34,8 @@ public class getWordAndAnswer
 	
 	private HashMap<String[], String> wordsMap = new HashMap<String[], String>();
 	
+	private int count = 0;
+	
 	@GET
 	@Produces(MediaType.APPLICATION_JSON)
 	public String getWordAndAnswer() 
@@ -57,7 +59,7 @@ public class getWordAndAnswer
 		
 		return wordAndAnswerMapJson;
 	}
-	
+	//TOTAL WORDS 120
 	/**
 	 * checks meaning of a word with those defined.
 	 * Returns correct if it's a successful match otherwise returns
@@ -71,7 +73,7 @@ public class getWordAndAnswer
 	@Path("/checkAnswer")
 	@Consumes(MediaType.TEXT_PLAIN)
 	@Produces(MediaType.APPLICATION_JSON)
-	public String matchCredentials(@QueryParam("word") String word, @QueryParam("answer") String answer) 
+	public String checkAnswer(@QueryParam("word") String word, @QueryParam("answer") String answer) 
 	{
 		wordsMap = initUtil.initWordsMap(wordsMap);
 		ANSWER = util.getAnswer(wordsMap, word);
@@ -82,4 +84,21 @@ public class getWordAndAnswer
 		return INCORRECT;
 	}
 	
+	@GET
+	@Path("/countWords")
+	@Produces(MediaType.APPLICATION_JSON)
+	public int countWords() 
+	{
+		wordsMap = initUtil.initWordsMap(wordsMap);
+				
+		for (String[] key : wordsMap.keySet())
+		{
+			for(String word : key)
+			{
+				count++;
+			}
+		}
+		
+		return count;
+	}
 }
