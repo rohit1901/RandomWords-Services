@@ -29,6 +29,18 @@ public class InitializationUtility
 		wordsMap.put(WordsList.list19, WordsList.TAKEAPART);
 		wordsMap.put(WordsList.list20, WordsList.AWKWARD);
 		wordsMap.put(WordsList.list21, WordsList.CHANGES);
+		wordsMap.put(WordsList.list22, WordsList.HATE);
+		wordsMap.put(WordsList.list23, WordsList.OLDFASHIONED);
+		wordsMap.put(WordsList.list24, WordsList.TIMERELATED);
+		wordsMap.put(WordsList.list25, WordsList.CAUTIOUS);
+		wordsMap.put(WordsList.list26, WordsList.BRAVE);
+		wordsMap.put(WordsList.list27, WordsList.BITTER);
+		wordsMap.put(WordsList.list28, WordsList.MOCK);
+		wordsMap.put(WordsList.list29, WordsList.TROUBLED);
+		wordsMap.put(WordsList.list30, WordsList.ESCAPE);
+		wordsMap.put(WordsList.list31, WordsList.DEFEAT);
+		wordsMap.put(WordsList.list32, WordsList.CRITICISE);
+		wordsMap.put(WordsList.list33, WordsList.WARNING);
 
 		return wordsMap;
 	}

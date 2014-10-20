@@ -59,7 +59,7 @@ public class getWordAndAnswer
 		
 		return wordAndAnswerMapJson;
 	}
-	//TOTAL WORDS 120
+	
 	/**
 	 * checks meaning of a word with those defined.
 	 * Returns correct if it's a successful match otherwise returns
