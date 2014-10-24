@@ -368,7 +368,212 @@ public class WordsList
 
 	public static final String[] list33 = { ADMONISH, CENSURE, CHASTISE, CLUDE, REBUKE, REPRIMAND,
 	        REPROACH, REPROACH };
+	
+	//The following words mean EQUALITY
+	public static final String COMMENSURATE = "COMMENSURATE";
+	public static final String PARITY = "PARITY";
+	public static final String PEERS = "PEERS";
+	public static final String TANTAMOUNT = "TANTAMOUNT";
 
+	public static final String[] list34 = { COMMENSURATE, PARITY, PEERS, TANTAMOUNT };
+	
+	//All the following words mean AGREEMENT/HARMONY
+	public static final String ACCORD = "ACCORD";
+	public static final String CONCORD = "CONCORD";
+	public static final String CONFORMITY = "CONFORMITY";
+	public static final String CONGRUOUS = "CONGRUOUS";
+	public static final String CONSONANCE = "CONSONANCE";
+	
+	public static final String[] list35 = { ACCORD, CONCORD, CONFORMITY, CONGRUOUS, CONSONANCE };
+	
+	//The following words mean AGGRESSIVE/ARGUMENTATIVE
+	public static final String BELLICOSE = "BELLICOSE";
+	public static final String BELLIGERENT = "BELLIGERENT";
+	public static final String CONTENTIOUS = "CONTENTIOUS";
+	public static final String DISPUTATIOUS = "DISPUTATIOUS";
+	public static final String FRACTIOUS = "FRACTIOUS";
+	public static final String HOSTILITY = "HOSTILITY";
+	public static final String LUTIGIOUS = "LUTIGIOUS";
+	public static final String POLEMICAL = "POLEMICAL";
+	public static final String PUGNACIOUS = "PUGNACIOUS";
+	public static final String TRUCULENT = "TRUCULENT";
+	
+	public static final String[] list36 = { BELLICOSE, BELLIGERENT, CONTENTIOUS, DISPUTATIOUS,
+	        FRACTIOUS, HOSTILITY, LUTIGIOUS, POLEMICAL, PUGNACIOUS, TRUCULENT };
+
+	//The following words mean ARGUE/FIGHT
+	public static final String ALTERCATION = "ALTERCATION";
+	public static final String BICKER = "BICKER";
+	public static final String CONTEND = "CONTEND";
+	public static final String FRACAS = "FRACAS";
+	public static final String MELEE = "MELEE";
+	public static final String QUIBBLE = "QUIBBLE";
+	public static final String ROW = "ROW";
+	public static final String SQUABBLE = "SQUABBLE";
+	public static final String TIFF = "TIFF";
+	public static final String TUSSLE = "TUSSLE";
+	
+	public static final String[] list37 = { ALTERCATION, BICKER, CONTEND, FRACAS, MELEE, QUIBBLE,
+	        ROW, SQUABBLE, TIFF, TUSSLE };
+	
+	//The following words mean MAKE HOSTILE
+	public static final String ALIENATE = "ALIENATE";
+	public static final String ANTAGONIZE = "ANTAGONIZE";
+	public static final String ESTRANGE = "ESTRANGE";
+	
+	public static final String[] list38 = { ALIENATE, ANTAGONIZE, ESTRANGE };
+	
+	//The following words mean INCLUDE EVERYTHING
+	public static final String COMPREHENSIVE = "COMPREHENSIVE";
+	public static final String ENCOMPASS = "ENCOMPASS";
+	public static final String PERVASIVE = "PERVASIVE";
+	
+	public static final String[] list39 = { COMPREHENSIVE, ENCOMPASS, PERVASIVE };
+	
+	//The following words mean PRESENT EVERYWHERE
+	public static final String UBIQUOTOUS = "UBIQUOTOUS";
+	public static final String OMNIPRESENT = "OMNIPRESENT";
+	
+	public static final String[] list40 = { UBIQUOTOUS, OMNIPRESENT };
+	
+	//The following words mean NARROW MINDED/REGIONAL
+	public static final String INSULAR = "INSULAR";
+	public static final String MYOPIC = "MYOPIC";
+	public static final String PAROCHIAL = "PAROCHIAL";
+	public static final String PROVINCIAL = "PROVINCIAL";
+	
+	public static final String[] list41 = { INSULAR, MYOPIC, PAROCHIAL, PROVINCIAL };
+	
+	//The following words mean BIASED
+	public static final String BIGOT = "BIGOT";
+	public static final String PARTISAN = "PARTISAN";
+	public static final String PREJUDICED = "PREJUDICED";
+	public static final String TENDENTIOUS = "TENDENTIOUS";
+	
+	public static final String[] list42 = { BIGOT, PARTISAN, PREJUDICED, TENDENTIOUS };
+	
+	//The following words mean IMPARTIAL
+	public static final String DISPASSIONATE = "DISPASSIONATE";
+	public static final String EGALITARIAN = "EGALITARIAN";
+	public static final String EQUATABLE = "EQUITABLE";
+	public static final String OBJECTIVITY = "OBJECTIVITY";
+	
+	public static final String[] list43 = { DISPASSIONATE, EGALITARIAN, EQUATABLE, OBJECTIVITY };
+	
+	//The following words mean NOT SERIOUS
+	public static final String FLIPPANT = "FLIPPANT";
+	public static final String FRIVOLOUS = "FRIVOLOUS";
+	public static final String INSOUCIANT = "INSOUCIANT";
+	public static final String LEVITY = "LEVITY";
+	
+	public static final String[] list44 = { FLIPPANT, FRIVOLOUS, INSOUCIANT, LEVITY };
+	
+	//The following words mean DOMINATING
+	public static final String ABSOLUTE = "ABSOLUTE";
+	public static final String AUTHORITATIVE = "AUTHORITATIVE";
+	public static final String AUTOCRAT = "AUTOCRAT";
+	public static final String DESPOT = "DESPOT";
+	public static final String DOGMATIC = "DOGMATIC";
+	public static final String HEGEMONY = "HEGEMONY";
+	public static final String IMPERIOUS = "IMPERIOUS";
+	public static final String MARTINET = "MARTINET";
+	public static final String TOTALITARIAN = "TOTALITARIAN";
+	public static final String TYRANT = "TYRANT";
+	
+	public static final String[] list45 = { ABSOLUTE, AUTHORITATIVE, AUTOCRAT, DESPOT, DOGMATIC,
+	        HEGEMONY, IMPERIOUS, MARTINET, TOTALITARIAN, TYRANT };
+	
+	//The following words mean SURPRISE/CONFUSE
+	public static final String ASTOUND = "ASTOUND";
+	public static final String BAFFLE = "BAFFLE";
+	public static final String BAMBOOZLE = "BAMBOOZLE";
+	public static final String BEFUDDLE = "BEFUDDLE";
+	public static final String BEMUSE = "BEMUSE";
+	public static final String BEWILDER = "BEWILDER";
+	public static final String BOGGLE = "BOGGLE";
+	public static final String CONFOUND = "CONFOUND";
+	public static final String FOXED = "FOXED";
+	public static final String NONPLUSSED = "NONPLUSSED";
+	public static final String OBFUSCATE = "OBFUSCATE";
+	public static final String STUPEFY = "STUPEFY";
+	
+	public static final String[] list46 = { ASTOUND, BAFFLE, BAMBOOZLE, BEFUDDLE, BEMUSE, BEWILDER,
+	        BOGGLE, CONFOUND, FOXED, NONPLUSSED, OBFUSCATE, STUPEFY };
+	
+	//The following words mean PAMPER
+	public static final String CODDLE = "CODDLE";
+	public static final String HUMOR = "HUMOR";
+	public static final String INDULGE = "INDULGE";
+	public static final String MOLLYCODDLE = "MOLLYCODDLE";
+	
+	public static final String[] list47 = { CODDLE, HUMOR, INDULGE, MOLLYCODDLE };
+	
+	//The following words mean EXCESSIVE FLATTERY
+	public static final String FAWN = "FAWN";
+	public static final String FULSOME = "FULSOME";
+	public static final String OBSEQUIOUS = "OBSEQUIOUS";
+	public static final String SYCOPHANT = "SYCOPHANT";
+	public static final String TOADY = "TOADY";
+	public static final String UNCTUOUS = "UNCTUOUS";
+	
+	public static final String[] list48 = { FAWN, FULSOME, OBSEQUIOUS, SYCOPHANT, TOADY, UNCTUOUS };
+	
+	//The following words mean INSULTING WORDS
+	public static final String DEPRECATORY = "DEPRECATORY";
+	public static final String PEJORATIVE = "PEJORATIVE";
+	public static final String DEROGATORY = "DEROGATORY";
+	
+	public static final String[] list49 = { DEPRECATORY, DEROGATORY, PEJORATIVE };
+	
+	//The following words mean ADD/SUPPORT
+	public static final String ADJUNCT = "ADJUNCT";
+	public static final String COMPLEMENT = "COMPLEMENT";
+	public static final String SUPPLEMENT = "SUPPLEMENT";
+	
+	public static final String[] list50 = { ADJUNCT, COMPLEMENT, SUPPLEMENT };
+	
+	//the following words mean CALM
+	public static final String APLOMB = "APLOMB";
+	public static final String COMPOSURE = "COMPOSURE";
+	public static final String EQUANIMITY = "EQUANIMITY";
+	public static final String IMPASSIVE = "IMPASSIVE";
+	public static final String IMPERTURBABLE = "IMPERTURBABLE";
+	public static final String NONCHALANT = "NONCHALANT";
+	public static final String PHLEGMATIC = "PHLEGMATIC";
+	public static final String PLACID = "PLACID";
+	public static final String SERENE = "SERENE";
+	public static final String STAID = "STAID";
+	public static final String STOLID = "STOLID";
+	public static final String TRANQUIL = "TRANQUIL";
+	
+	public static final String[] list51 = { APLOMB, COMPOSURE, EQUANIMITY, IMPASSIVE,
+	        IMPERTURBABLE, NONCHALANT, PHLEGMATIC, PLACID, SERENE, STAID, STOLID, TRANQUIL }; 
+	
+	//The following words mean INDIFFERENT
+	public static final String APATHY = "APATHY";
+	public static final String STOIC = "STOIC";
+	
+	public static final String[] list52 = { APATHY, STOIC};
+	
+	//the following words mean OVERLY OBEDIENT
+	public static final String GROVEL = "GROVEL";
+	public static final String SERVILE = "SERVILE";
+	public static final String SLAVISH = "SLAVISH";
+	public static final String SUBSERVIENT = "SUBSERVIENT";
+	public static final String SUPPLICANT = "SUPPLICANT";
+	
+	public static final String[] list53 = { GROVEL, SERVILE, SLAVISH, SUBSERVIENT, SUPPLICANT };
+	
+	//The following words mean SUPPRESSED/END
+	public static final String QUASH = "QUASH";
+	public static final String QUELL = "QUELL";
+	public static final String REPRESS = "REPRESS";
+	public static final String SCOTCH = "SCOTCH";
+	public static final String SUBDUE = "SUBDUE";
+	public static final String SUPPRESS = "SUPPRESS";
+	
+	public static final String[] list54 = { QUASH, QUELL, REPRESS, SCOTCH, SUBDUE, SUPPRESS };
+	
 	// All of the following words are answers to the aforementioned words
 	public static final String PREDICTION = "Prediction";
 	public static final String SIGN = "Sign";
@@ -403,5 +608,26 @@ public class WordsList
 	public static final String DEFEAT = "DEFEAT";
 	public static final String CRITICISE = "CRITICISE/EXPRESS DISAPPROVAL/SCOLD";
 	public static final String WARNING = "WARNING/MINOR SCOLDING";
-
+	public static final String EQUALITY = "EQUALITY";
+	public static final String AGREEMENT = "AGREEMENT/HARMONY";
+	public static final String AGGRESSIVE = "AGGRESSIVE/ARGUMENTATIVE";
+	public static final String ARGUE = "ARGUR/FIGHT";
+	public static final String MAKEHOSTILE = "MAKE HOSTILE";
+	public static final String INCLUDEEVERYTHING = "INCLUDE EVERYTHING";
+	public static final String PRESENTEVERYWHERE = "PRESENT EVERYWHERE";
+	public static final String NARROWMINDED = "NARROW MINDED/REGIONAL";
+	public static final String BIASED = "BIASED";
+	public static final String IMPARTIAL = "IMPARTIAL";
+	public static final String NOTSERIOUS = "NOT SERIOUS";
+	public static final String DOMINATING = "DOMINATING";
+	public static final String SURPRISE = "SURPRISE/CONFUSE";
+	public static final String PAMPER = "PAMPER";
+	public static final String EXCESSIVEFLATTERY = "EXCESSIVE FLATTERY";
+	public static final String INSULTINGWORD = "INSULTING WORD";
+	public static final String ADD = "ADD/SUPPORT";
+	public static final String CALM = "CALM";
+	public static final String INDIFFERENT = "INDIFFERENT";
+	public static final String OVERLYOBEDIENT = "OVERLY OBEDIENT";
+	public static final String SUPPRESSEND = "SUPPRESS/END";
 }
+

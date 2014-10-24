@@ -41,6 +41,27 @@ public class InitializationUtility
 		wordsMap.put(WordsList.list31, WordsList.DEFEAT);
 		wordsMap.put(WordsList.list32, WordsList.CRITICISE);
 		wordsMap.put(WordsList.list33, WordsList.WARNING);
+		wordsMap.put(WordsList.list34, WordsList.EQUALITY);
+		wordsMap.put(WordsList.list35, WordsList.AGREEMENT);
+		wordsMap.put(WordsList.list36, WordsList.AGGRESSIVE);
+		wordsMap.put(WordsList.list37, WordsList.ARGUE);
+		wordsMap.put(WordsList.list38, WordsList.MAKEHOSTILE);
+		wordsMap.put(WordsList.list39, WordsList.INCLUDEEVERYTHING);
+		wordsMap.put(WordsList.list40, WordsList.PRESENTEVERYWHERE);
+		wordsMap.put(WordsList.list41, WordsList.NARROWMINDED);
+		wordsMap.put(WordsList.list42, WordsList.BIASED);
+		wordsMap.put(WordsList.list43, WordsList.IMPARTIAL);
+		wordsMap.put(WordsList.list44, WordsList.NOTSERIOUS);
+		wordsMap.put(WordsList.list45, WordsList.DOMINATING);
+		wordsMap.put(WordsList.list46, WordsList.SURPRISE);
+		wordsMap.put(WordsList.list47, WordsList.PAMPER);
+		wordsMap.put(WordsList.list48, WordsList.EXCESSIVEFLATTERY);
+		wordsMap.put(WordsList.list49, WordsList.INSULTINGWORD);
+		wordsMap.put(WordsList.list50, WordsList.ADD);
+		wordsMap.put(WordsList.list51, WordsList.CALM);
+		wordsMap.put(WordsList.list52, WordsList.INDIFFERENT);
+		wordsMap.put(WordsList.list53, WordsList.OVERLYOBEDIENT);
+		wordsMap.put(WordsList.list54, WordsList.SUPPRESSEND);
 
 		return wordsMap;
 	}
