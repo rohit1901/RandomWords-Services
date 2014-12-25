@@ -62,6 +62,24 @@ public class InitializationUtility
 		wordsMap.put(WordsList.list52, WordsList.INDIFFERENT);
 		wordsMap.put(WordsList.list53, WordsList.OVERLYOBEDIENT);
 		wordsMap.put(WordsList.list54, WordsList.SUPPRESSEND);
+		wordsMap.put(WordsList.list55, WordsList.SHORTLIVED);
+		wordsMap.put(WordsList.list56, WordsList.NEVERENDING);
+		wordsMap.put(WordsList.list57, WordsList.IRREGULAR);
+		wordsMap.put(WordsList.list58, WordsList.CALMDOWN);
+		wordsMap.put(WordsList.list59, WordsList.TOMAKEUNNECESSARY);
+		wordsMap.put(WordsList.list60, WordsList.LACKINGENERGY);
+		wordsMap.put(WordsList.list61, WordsList.HARDWORKING);
+		wordsMap.put(WordsList.list62, WordsList.HAPPY);
+		wordsMap.put(WordsList.list63, WordsList.CRUCIAL);
+		wordsMap.put(WordsList.list64, WordsList.UNIMPORTANT);
+		wordsMap.put(WordsList.list65, WordsList.SAD);
+		wordsMap.put(WordsList.list66, WordsList.ENTHUSIASTIC);
+		wordsMap.put(WordsList.list67, WordsList.SULKING);
+		wordsMap.put(WordsList.list68, WordsList.UNUSUAL);
+		wordsMap.put(WordsList.list69, WordsList.ORDINARY);
+		wordsMap.put(WordsList.list70, WordsList.DIFFICULTTOUNDERSTAND);
+
+
 
 		return wordsMap;
 	}

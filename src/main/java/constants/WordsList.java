@@ -574,6 +574,366 @@ public class WordsList
 	
 	public static final String[] list54 = { QUASH, QUELL, REPRESS, SCOTCH, SUBDUE, SUPPRESS };
 	
+	//The following words mean Short Lived
+	public static final String EPHIMERAL = "Ephimeral";
+	public static final String EVANESCENT = "Evanescent";
+	public static final String FLEETING = "Fleeting";
+	public static final String TRANSIENT = "Transient";
+	public static final String TRANSITORY = "Transitory";
+
+	public static final String[] list55 = { EPHIMERAL,EVANESCENT,FLEETING,TRANSIENT,TRANSITORY };
+	
+	//The following words mean Never Ending/Non Stop
+	public static final String CHRONIC = "Chronic";
+	public static final String INCESSANT = "Incessant";
+	public static final String INEXORABLE = "Inexorable";
+	public static final String INTERMINABLE = "Interminable";
+	public static final String PERENNIAL = "Perennial";
+	public static final String RELENTLESS = "Relentless";
+
+	public static final String[] list56 = { CHRONIC,
+		INCESSANT,
+		INEXORABLE,
+		INTERMINABLE,
+		PERENNIAL,
+		RELENTLESS
+	};
+	
+	//The following words mean Irregular/ At Intervals
+	public static final String FITFULLY = "Fitfully";
+	public static final String INTERMITTENT = "Intermittent";
+	public static final String OCCASSIONALLY = "Occassionally";
+	public static final String SPASMODIC = "Spasmodic";
+	public static final String SPORADIC = "Sporadic";
+
+	public static final String[] list57 = { FITFULLY,
+		INTERMITTENT,
+		OCCASSIONALLY,
+		SPASMODIC,
+		SPORADIC
+	};
+	
+	//The following words mean Calm Down
+	public static final String ALLAY = "Allay";
+	public static final String ALLEVIATE = "Alleviate";
+	public static final String AMELIORATE = "Ameliorate";
+	public static final String APPEASE = "Appease";
+	public static final String ASSUAGE = "Assuage";
+	public static final String CONCILIATE = "Conciliate";
+	public static final String EXTENUATING = "Extenuating";
+	public static final String MITIGATE = "Mitigate";
+	public static final String MOLLIFY = "Mollify";
+	public static final String PACIFY = "Pacify";
+	public static final String PLACATE = "Placate";
+	public static final String PROPITIATE = "Propitiate";
+	public static final String SOLACE = "Solace";
+	public static final String TEMPER = "Temper";
+
+	public static final String[] list58 = {ALLAY,
+		ALLEVIATE,
+		AMELIORATE,
+		APPEASE,
+		ASSUAGE,
+		CONCILIATE,
+		EXTENUATING,
+		MITIGATE,
+		MOLLIFY,
+		PACIFY,
+		PLACATE,
+		PROPITIATE,
+		SOLACE,
+		TEMPER
+	};
+	
+	//The following words mean To make unnecessary
+	public static final String GRATUITOUS = "Gratuitous";
+	public static final String OBVIATE = "Obviate";
+
+	public static final String[] list59 = {GRATUITOUS,
+		OBVIATE
+	};
+
+	//The following words mean Lacking Energy/ Lazy
+	public static final String INDOLENT = "Indolent";
+	public static final String LACKADAISICAL = "Lackadaisical";
+	public static final String LACKLUSTER = "Lackluster";
+	public static final String LANGUID = "Languid";
+	public static final String LASSITUDE = "Lassitude";
+	public static final String LETHARGIC = "Lethargic";
+	public static final String LISTLESS = "Listless";
+	public static final String SLOTH = "Sloth";
+	public static final String SLUGGISH = "Sluggish";
+	public static final String TORPOR = "Torpor";
+	public static final String TORPID = "Torpid";
+
+	public static final String[] list60= {INDOLENT,
+		LACKADAISICAL,
+		LACKLUSTER,
+		LANGUID,
+		LASSITUDE,
+		LETHARGIC,
+		LISTLESS,
+		SLOTH,
+		SLUGGISH,
+		TORPOR,
+		TORPID
+	};
+	
+	//The following words mean Hard working
+	public static final String ASSIDUOUS = "Assiduous";
+	public static final String DILIGENT = "Diligent";
+	public static final String INDUSTRIOUS = "Industrious";
+	public static final String PAINSTAKING = "Painstaking";
+	public static final String SEDULOUS = "Sedulous";
+	public static final String TOIL = "Toil";
+
+	public static final String[] list61 = {ASSIDUOUS,
+		DILIGENT,
+		INDUSTRIOUS,
+		PAINSTAKING,
+		SEDULOUS,
+		TOIL
+	}; 
+	
+	//The following words mean Happy/ Joyous
+	public static final String BEAM = "Beam";
+	public static final String BEATIFIC = "Beatific";
+	public static final String BLITHE = "Blithe";
+	public static final String ECSTACY = "Ecstacy";
+	public static final String ELATED = "Elated";
+	public static final String EUPHORIA = "Euphoria";
+	public static final String EXHILARATION = "Exhilaration";
+	public static final String EXULTANT = "Exultant";
+	public static final String FACETIOUS = "Facetious";
+	public static final String FELICITY = "Felicity";
+	public static final String GAIETY = "Gaiety";
+	public static final String JEST = "Jest";
+	public static final String JOCULAR = "Jocular";
+	public static final String JOCUND = "Jocund";
+	public static final String JOLLITY = "Jollity";
+	public static final String JOVIAL = "Jovial";
+	public static final String JUBILANT = "Jubilant";
+	public static final String RAPTUROUS = "Rapturous";
+	public static final String REGALE = "Regale";
+	public static final String SANGUINE = "Sanguine";
+	public static final String UPROARACIOUS = "Uproaracious";
+	public static final String WAGGISH = "Waggish";
+
+	public static final String[] list62 = {BEAM,
+		BEATIFIC,
+		BLITHE,
+		ECSTACY,
+		ELATED,
+		EUPHORIA,
+		EXHILARATION,
+		EXULTANT,
+		FACETIOUS,
+		FELICITY,
+		GAIETY,
+		JEST,
+		JOCULAR,
+		JOCUND,
+		JOLLITY,
+		JOVIAL,
+		JUBILANT,
+		RAPTUROUS,
+		REGALE,
+		SANGUINE,
+		UPROARACIOUS,
+		WAGGISH
+};
+
+	//the following words mean Crucial/Significant
+	public static final String CARDINAL = "Cardinal";
+	public static final String CORE = "Core";
+	public static final String FOREMOST = "Foremost";
+	public static final String IMPERATIVE = "Imperative";
+	public static final String INDISPENSIBLE = "Indispensible";
+	public static final String MANDATORY = "Mandatory";
+	public static final String MOMENTUOUS = "Momentuous";
+	public static final String PARAMOUNT = "Paramount";
+	public static final String PIVOTAL = "Pivotal";
+	public static final String SALIENT = "Salient";
+
+	public static final String[] list63 = { CARDINAL,
+		CORE,
+		FOREMOST,
+		IMPERATIVE,
+		INDISPENSIBLE,
+		MANDATORY,
+		MOMENTUOUS,
+		PARAMOUNT,
+		PIVOTAL,
+		SALIENT
+};
+	
+	//The following words mean Unimportant/ Trivial
+	public static final String EXPENDABLE = "Expendable";
+	public static final String FRINGE = "Fringe";
+	public static final String INCIDENTAL = "Incidental";
+	public static final String INCONSEQUENTIAL = "Inconsequential";
+	public static final String NUGATORY = "Nugatory";
+	public static final String PERIPHERAL = "Peripheral";
+	public static final String PICAYUNE = "Picayune";
+
+	public static final String[] list64 = { EXPENDABLE,
+		FRINGE,
+		INCIDENTAL,
+		INCONSEQUENTIAL,
+		NUGATORY,
+		PERIPHERAL,
+		PICAYUNE
+	};
+
+	//The following words mean Sad/ Depressed
+	public static final String ANGUISH = "Anguish";
+	public static final String BEREAVED = "Bereaved";
+	public static final String BEREFT = "Bereft";
+	public static final String BLEAK = "Bleak";
+	public static final String CRESTFALLEN = "Crestfallen";
+	public static final String DEJECTED = "Dejected";
+	public static final String DESOLATE = "Desolate";
+	public static final String DESPONDENT = "Despondent";
+	public static final String FORLORN = "Forlorn";
+	public static final String LACHRYMOSE = "Lachrymose";
+	public static final String LAMENT = "Lament";
+	public static final String LUGUBRIOUS = "Lugubrious";
+	public static final String MELANCHOLY = "Melancholy";
+	public static final String PLAINTIVE = "Plaintive";
+	public static final String WOE = "Woe";
+
+	public static final String[] list65 = { ANGUISH,
+		BEREAVED,
+		BEREFT,
+		BLEAK,
+		CRESTFALLEN,
+		DEJECTED,
+		DESOLATE,
+		DESPONDENT,
+		FORLORN,
+		LACHRYMOSE,
+		LAMENT,
+		LUGUBRIOUS,
+		MELANCHOLY,
+		PLAINTIVE,
+		WOE
+};
+
+	//The following words mean Enthusiastic/ Passionate
+	public static final String AVID = "Avid";
+	public static final String ARDOR = "Ardor";
+	public static final String ARDENT = "Ardent";
+	public static final String DYNAMIC = "Dynamic";
+	public static final String EBBULIENT = "Ebbulient";
+	public static final String EFFERVESCENT = "Effervescent";
+	public static final String EFFUSIVE = "Effusive";
+	public static final String EXUBERANT = "Exuberant";
+	public static final String FERVENT = "Fervent";
+	public static final String FERVOUR = "Fervour";
+	public static final String FRISKY = "Frisky";
+	public static final String GUSHING = "Gushing";
+	public static final String IMPASSIONED = "Impassioned";
+	public static final String VIVACIOUS = "Vivacious";
+	public static final String ZEALOUS = "Zealous";
+	public static final String ZEST = "Zest";
+
+	public static final String[] list66 = { AVID,
+		ARDOR,
+		ARDENT,
+		DYNAMIC,
+		EBBULIENT,
+		EFFERVESCENT,
+		EFFUSIVE,
+		EXUBERANT,
+		FERVENT,
+		FERVOUR,
+		FRISKY,
+		GUSHING,
+		IMPASSIONED,
+		VIVACIOUS,
+		ZEALOUS,
+		ZEST
+	};
+
+	//The following words mean Sulking/ Bad-tempered
+	public static final String DOUR = "Dour";
+	public static final String MOROSE = "Morose";
+	public static final String PEEVISH = "Peevish";
+	public static final String PETULANT = "Petulant";
+	public static final String POUT = "Pout";
+	public static final String SATURNINE = "Saturnine";
+	public static final String SULLEN = "Sullen";
+
+	public static final String[] list67 = { DOUR,
+		MOROSE,
+		PEEVISH,
+		PETULANT,
+		POUT,
+		SATURNINE,
+		SULLEN
+	};
+
+	//The following words mean Unusual/ Exception
+	public static final String ABBERATION = "Abberation";
+	public static final String ANOMALY = "Anomaly";
+	public static final String DEVIATE = "Deviate";
+
+	public static final String[] list68 = { ABBERATION,
+		ANOMALY,
+		DEVIATE
+	}; 
+	
+	//The following words mean Ordinary
+	public static final String BANAL = "Banal";
+	public static final String BROMIDE = "Bromide";
+	public static final String CLICHÉ = "Cliché";
+	public static final String DERIVATIVE = "Derivative";
+	public static final String HACKNEY = "Hackney";
+	public static final String HUMDRUM = "Humdrum";
+	public static final String MUNDANE = "Mundane";
+	public static final String PEDESTRIAN = "Pedestrian";
+	public static final String PLATITUDE = "Platitude";
+	public static final String PLEBEIAN = "Plebeian";
+	public static final String QUOTIDIAN = "Quotidian";
+	public static final String TRITE = "Trite";
+
+	public static final String[] list69 = { BANAL,
+		BROMIDE,
+		CLICHÉ,
+		DERIVATIVE,
+		HACKNEY,
+		HUMDRUM,
+		MUNDANE,
+		PEDESTRIAN,
+		PLATITUDE,
+		PLEBEIAN,
+		QUOTIDIAN,
+		TRITE
+	};
+
+	//The following words mean Difficult to understand
+	public static final String ABSTRACT = "Abstract";
+	public static final String ABSTRUSE = "Abstruse";
+	public static final String ARCANE = "Arcane";
+	public static final String ESOTERIC = "Esoteric";
+	public static final String MYSTICAL = "Mystical";
+	public static final String OBSCURE = "Obscure";
+	public static final String OCCULT = "Occult";
+	public static final String PROFOUND = "Profound";
+	public static final String RECONDITE = "Recondite";
+
+	public static final String[] list70 = { ABSTRACT,
+		ABSTRUSE,
+		ARCANE,
+		ESOTERIC,
+		MYSTICAL,
+		OBSCURE,
+		OCCULT,
+		PROFOUND,
+		RECONDITE
+	};
+
+	
 	// All of the following words are answers to the aforementioned words
 	public static final String PREDICTION = "Prediction";
 	public static final String SIGN = "Sign";
@@ -629,5 +989,22 @@ public class WordsList
 	public static final String INDIFFERENT = "INDIFFERENT";
 	public static final String OVERLYOBEDIENT = "OVERLY OBEDIENT";
 	public static final String SUPPRESSEND = "SUPPRESS/END";
+	public static final String SHORTLIVED = "Short lived";
+	public static final String NEVERENDING = "Never ending/ Non stop";
+	public static final String IRREGULAR = "Irregular";
+	public static final String CALMDOWN = "Calm down";
+	public static final String TOMAKEUNNECESSARY = "To make unnecessary";
+	public static final String LACKINGENERGY = "Lacking Energy/ Lazy";
+	public static final String HARDWORKING = "Hard Working";
+	public static final String HAPPY = "Happy/ Joyous";
+	public static final String CRUCIAL = "Crucial/ Significant";
+	public static final String UNIMPORTANT = "Unimportant/ Trivial";
+	public static final String SAD = "Sad/ Depressed";
+	public static final String ENTHUSIASTIC = "Enthusiastic/ Passionate";
+	public static final String SULKING = "Sulking/ Bad tempered";
+	public static final String UNUSUAL = "Unusual/ Exception";
+	public static final String ORDINARY = "Ordinary";
+	public static final String DIFFICULTTOUNDERSTAND = "Difficult to understand";
+
 }
 
