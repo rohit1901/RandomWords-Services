@@ -78,8 +78,30 @@ public class InitializationUtility
 		wordsMap.put(WordsList.list68, WordsList.UNUSUAL);
 		wordsMap.put(WordsList.list69, WordsList.ORDINARY);
 		wordsMap.put(WordsList.list70, WordsList.DIFFICULTTOUNDERSTAND);
-
-
+		wordsMap.put(WordsList.list71, WordsList.LUCKY);
+		wordsMap.put(WordsList.list72, WordsList.UNLUCKY);
+		wordsMap.put(WordsList.list73, WordsList.PAIN);
+		wordsMap.put(WordsList.list74, WordsList.REMEMBERINGTHEPAST);
+		wordsMap.put(WordsList.list75, WordsList.EXCESSIVEPATRIOTISM);
+		wordsMap.put(WordsList.list76, WordsList.AGREATQUANTITY);
+		wordsMap.put(WordsList.list77, WordsList.FERTILE);
+		wordsMap.put(WordsList.list78, WordsList.HIGHPRICE);
+		wordsMap.put(WordsList.list79, WordsList.POOR);
+		wordsMap.put(WordsList.list80, WordsList.WEALTHY);
+		wordsMap.put(WordsList.list81, WordsList.INCREASE);
+		wordsMap.put(WordsList.list82, WordsList.COMBINE);
+		wordsMap.put(WordsList.list83, WordsList.REDUCE);
+		wordsMap.put(WordsList.list84, WordsList.RUNDOWN);
+		wordsMap.put(WordsList.list85, WordsList.UNWILLINGTOSPEND);
+		wordsMap.put(WordsList.list86, WordsList.WASTE);
+		wordsMap.put(WordsList.list87, WordsList.LESSINTENSITY);
+		wordsMap.put(WordsList.list88, WordsList.RELEVANT);
+		wordsMap.put(WordsList.list89, WordsList.EXCESS);
+		wordsMap.put(WordsList.list90, WordsList.UNCLEARINMEANING);
+		wordsMap.put(WordsList.list91, WordsList.SURE);
+		wordsMap.put(WordsList.list92, WordsList.SHORTAGE);
+		wordsMap.put(WordsList.list93, WordsList.VERYLESS);
+		
 
 		return wordsMap;
 	}

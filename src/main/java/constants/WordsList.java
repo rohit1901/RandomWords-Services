@@ -933,7 +933,374 @@ public class WordsList
 		RECONDITE
 	};
 
+	//The following words mean Lucky
+	public static final String FORTUITOUS = "Fortuitous";
+	public static final String OPPORTUNE = "Opportune";
+	public static final String PROPITIOUS = "Propitious";
+	public static final String SERENDIPITY = "Serendipity";
+
+	public static final String[] list71 = {
+		FORTUITOUS,
+		OPPORTUNE,
+		PROPITIOUS,
+		SERENDIPITY
+	};
 	
+	//The following words mean Unlucky
+	public static final String DESPAIR = "Despair";
+	public static final String HAPLESS = "Hapless";
+	public static final String WRETCHED = "Wretched";
+
+	public static final String[] list72 = {
+		DESPAIR,
+		HAPLESS,
+		WRETCHED
+	};
+	
+	//The following words mean Pain/Suffering
+	public static final String ADVERSITY = "Adversity";
+	public static final String AFFLICTIONS = "Afflictions";
+	public static final String MISHAP = "Mishap";
+	public static final String ORDEALS = "Ordeals";
+	public static final String TRIALS = "Trials";
+	public static final String TRIBULATION = "Tribulation";
+
+	public static final String[] list73 = {
+		ADVERSITY,
+		AFFLICTIONS,
+		MISHAP,
+		ORDEALS,
+		TRIALS,
+		TRIBULATION
+	};
+	
+	//The following words mean Remembering the past
+	public static final String HINDSIGHT = "Hindsight";
+	public static final String NOSTALGIA = "Nostalgia";
+	public static final String REMINISCENCE = "Reminiscence";
+	public static final String RETROSPECT = "Retrospect";
+	public static final String WISTFUL = "Wistful";
+
+	public static final String[] list74 ={
+		HINDSIGHT,
+		NOSTALGIA,
+		REMINISCENCE,
+		RETROSPECT,
+		WISTFUL
+	};
+	
+	//The following words mean Excessive Patriotism
+	public static final String CHAUVINISM = "Chauvinism";
+	public static final String FANATIC = "Fanatic";
+	public static final String JINGOISM = "Jingoism";
+	public static final String ZEALOT = "Zealot";
+
+	public static final String[] list75 = {
+		CHAUVINISM,
+		FANATIC,
+		JINGOISM,
+		ZEALOT
+	};
+	
+	//The following words mean A great quantity
+	public static final String DELUGE = "Deluge";
+	public static final String DRENCH = "Drench";
+	public static final String INUNDATE = "Inundate";
+
+	public static final String[] list76 = {
+		DELUGE,
+		DRENCH,
+		INUNDATE
+	};
+	
+	//The following words mean Fertile
+	public static final String ARABLE = "Arable";
+	public static final String FECUND = "Fecund";
+	public static final String VERDANT = "Verdant";
+
+	public static final String[] list77 = {
+		ARABLE,
+		FECUND,
+		VERDANT
+	};
+	
+	//The following words mean Very high price
+	public static final String EXORBITANT = "Exorbitant";
+	public static final String GOUCHING = "Gouching";
+	public static final String PROHIBITIVE = "Prohibitive";
+
+	public static final String[] list78 = {
+		EXORBITANT,
+		GOUCHING,
+		PROHIBITIVE
+	};
+	
+	//The following words mean Poor
+	public static final String BANKRUPT = "Bankrupt";
+	public static final String DESTITUTE = "Destitute";
+	public static final String IMPECUNIOUS = "Impecunious";
+	public static final String IMPOVERISH = "Impoverish";
+	public static final String INDIGENT = "Indigent";
+	public static final String INSOLVENT = "Insolvent";
+	public static final String MENDICANT = "Mendicant";
+	public static final String PAUPER = "Pauper";
+	public static final String PENURY = "Penury";
+
+	public static final String[] list79 = {
+		BANKRUPT,
+		DESTITUTE,
+		IMPECUNIOUS,
+		IMPOVERISH,
+		INDIGENT,
+		INSOLVENT,
+		MENDICANT,
+		PAUPER,
+		PENURY
+	};
+	
+	//The following words mean Wealthy
+	public static final String OPULENT = "Opulent";
+	public static final String AFFLUENT = "Affluent";
+
+	public static final String[] list80 = {
+		OPULENT,
+		AFFLUENT
+	};
+	
+	//The following words mean Increase
+	public static final String ACCRETION = "Accretion";
+	public static final String AGGRANDIZE = "Aggrandize";
+	public static final String AUGMENT = "Augment";
+	public static final String DILATE = "Dilate";
+	public static final String ENHANCE = "Enhance";
+	public static final String PROLIFERATE = "Proliferate";
+	public static final String WAX = "Wax";
+
+	public static final String[] list81 = {
+		ACCRETION,
+		AGGRANDIZE,
+		AUGMENT,
+		DILATE,
+		ENHANCE,
+		PROLIFERATE,
+		WAX
+	};
+	
+	//The following words mean Combine
+	public static final String AMALGAMATE = "Amalgamate";
+	public static final String COALITION = "Coalition";
+	public static final String CONFLATE = "Conflate";
+	public static final String MELD = "Meld";
+	public static final String SYNTHESIS = "Synthesis";
+
+	public static final String[] list82 = {
+		AMALGAMATE,
+		COALITION,
+		CONFLATE,
+		MELD,
+		SYNTHESIS
+	};
+	
+	//The following words mean Reduce
+	public static final String CONSTRICT = "Constrict";
+	public static final String CONTRACT = "Contract";
+	public static final String CURTAIL = "Curtail";
+	public static final String DWINDLE = "Dwindle";
+	public static final String FLAG = "Flag";
+	public static final String WANE = "Wane";
+
+	public static final String[] list83 = {
+		CONSTRICT,
+		CONTRACT,
+		CURTAIL,
+		DWINDLE,
+		FLAG,
+		WANE
+	};
+	
+	//The following words mean Poor Conditions/ Run down
+	public static final String DERELICT = "Derelict";
+	public static final String DILAPIDATED = "Dilapidated";
+	public static final String DECREPIT = "Decrepit";
+	public static final String RAMSHACKLE = "Ramshackle";
+	public static final String SHAMBLE = "Shamble";
+
+	public static final String[] list84 = {
+		DERELICT,
+		DILAPIDATED,
+		DECREPIT,
+		RAMSHACKLE,
+		SHAMBLE
+	};
+
+	//The following words mean Unwilling to Spend
+	public static final String CLOSEFISTED = "Closefisted";
+	public static final String MISERLY = "Miserly";
+	public static final String NIGGARDLY = "Niggardly";
+	public static final String PARSIMONIOUS = "Parsimonious";
+	public static final String SKINFLINT = "Skinflint";
+	public static final String STINGY = "Stingy";
+	public static final String TIGHTFISTED = "Tightfisted";
+
+	public static final String[] list85 = {
+		CLOSEFISTED,
+		MISERLY,
+		NIGGARDLY,
+		PARSIMONIOUS,
+		SKINFLINT,
+		STINGY,
+		TIGHTFISTED
+	};
+	
+	//The following words mean Waste
+	public static final String DISSIPATE = "Dissipate";
+	public static final String PRODIGAL = "Prodigal";
+	public static final String PROFLIGATE = "Profligate";
+	public static final String SPENDTHRIFT = "Spendthrift";
+	public static final String SQUANDER = "Squander";
+
+	public static final String[] list86 = {
+		DISSIPATE,
+		PRODIGAL,
+		PROFLIGATE,
+		SPENDTHRIFT,
+		SQUANDER
+	};
+	
+	//The following words mean Lessin in intensity
+	public static final String ABATE = "Abate";
+	public static final String EBB = "Ebb";
+	public static final String RECEDE = "Recede";
+	public static final String SUBSIDE = "Subside";
+
+	public static final String[] list87 = {
+		ABATE,
+		EBB,
+		RECEDE,
+		SUBSIDE
+	};
+	
+	//The following words mean Relevant
+	public static final String APPOSITE = "Apposite";
+	public static final String APROPOS = "Apropos";
+	public static final String GERMANE = "Germane";
+	public static final String PERTINENT = "Pertinent";
+
+	public static final String[] list88 = {
+		APPOSITE,
+		APROPOS,
+		GERMANE,
+		PERTINENT
+	};
+	
+	//The following words mean Excess
+	public static final String ABOUND = "Abound";
+	public static final String BARRAGE = "Barrage";
+	public static final String BOUNTEOUS = "Bounteous";
+	public static final String COPIOUS = "Copious";
+	public static final String GLUT = "Glut";
+	public static final String LEGION = "Legion";
+	public static final String MULTITUDINOUS = "Multitudinous";
+	public static final String MYRIAD = "Myriad";
+	public static final String PLETHORA = "Plethora";
+	public static final String PROFUSE = "Profuse";
+	public static final String PROLIFIC = "Prolific";
+	public static final String RIFE = "Rife";
+	public static final String SPATE = "Spate";
+	public static final String STEEPED = "Steeped";
+	public static final String SURFEIT = "Surfeit";
+	public static final String SURGE = "Surge";
+	public static final String TEEMING = "Teeming";
+	public static final String VOLLEY = "Volley";
+
+	public static final String[] list89 = {
+		ABOUND,
+		BARRAGE,
+		BOUNTEOUS,
+		COPIOUS,
+		GLUT,
+		LEGION,
+		MULTITUDINOUS,
+		MYRIAD,
+		PLETHORA,
+		PROFUSE,
+		PROLIFIC,
+		RIFE,
+		SPATE,
+		STEEPED,
+		SURFEIT,
+		SURGE,
+		TEEMING,
+		VOLLEY
+	};
+	
+	//The following words mean Unclear in meaning
+	public static final String AMBIVALENT = "Ambivalent";
+	public static final String AMBIGUOUS = "Ambiguous";
+	public static final String EQUIVOCAL = "Equivocal";
+
+	public static final String[] list90 = {
+		AMBIVALENT,
+		AMBIGUOUS,
+		EQUIVOCAL
+	};
+	
+	//The following words mean Sure/ Certain
+	public static final String CATEGORICAL = "Categorical";
+	public static final String CERTITUDE = "Certitude";
+	public static final String CONVICTION = "Conviction";
+	public static final String EMPHATIC = "Emphatic";
+	public static final String INCONTROVERTIBLE = "Incontrovertible";
+	public static final String UNQUALIFIED = "Unqualified";
+
+	public static final String[] list91 = {
+		CATEGORICAL,
+		CERTITUDE,
+		CONVICTION,
+		EMPHATIC,
+		INCONTROVERTIBLE,
+		UNQUALIFIED
+	};
+	
+	//The following words mean Shortage/ Lack of
+	public static final String DEARTH = "Dearth";
+	public static final String DEFICIT = "Deficit";
+	public static final String DEPRIVED = "Deprived";
+	public static final String DEVOID = "Devoid";
+	public static final String PAUCITY = "Paucity";
+	public static final String VACUOUS = "Vacuous";
+
+	public static final String[] list92 = {
+		DEARTH,
+		DEFICIT,
+		DEPRIVED,
+		DEVOID,
+		PAUCITY,
+		VACUOUS
+	};
+	
+	//The following words mean Very less
+	public static final String EXIGUOUS = "Exiguous";
+	public static final String MARGINAL = "Marginal";
+	public static final String MEAGRE = "Meagre";
+	public static final String NEGLIGIBLE = "Negligible";
+	public static final String PALTRY = "Paltry";
+	public static final String SCANTY = "Scanty";
+	public static final String SKIMPY = "Skimpy";
+	public static final String SPARE = "Spare";
+	public static final String SPARSE = "Sparse";
+
+	public static final String[] list93 = {
+		EXIGUOUS,
+		MARGINAL,
+		MEAGRE,
+		NEGLIGIBLE,
+		PALTRY,
+		SCANTY,
+		SKIMPY,
+		SPARE,
+		SPARSE
+	};
 	// All of the following words are answers to the aforementioned words
 	public static final String PREDICTION = "Prediction";
 	public static final String SIGN = "Sign";
@@ -1005,6 +1372,29 @@ public class WordsList
 	public static final String UNUSUAL = "Unusual/ Exception";
 	public static final String ORDINARY = "Ordinary";
 	public static final String DIFFICULTTOUNDERSTAND = "Difficult to understand";
+	public static final String LUCKY = "Lucky";
+	public static final String UNLUCKY = "Unlucky";
+	public static final String PAIN = "Pain/ Suffering";
+	public static final String REMEMBERINGTHEPAST = "Remembering the past";
+	public static final String EXCESSIVEPATRIOTISM = "Excessive Patriotism";
+	public static final String AGREATQUANTITY = "A great quantity";
+	public static final String FERTILE = "Fertile";
+	public static final String HIGHPRICE = "Very high price";
+	public static final String POOR = "Poor";
+	public static final String WEALTHY = "Wealthy";
+	public static final String INCREASE = "Increase";
+	public static final String COMBINE = "Combine";
+	public static final String REDUCE = "Reduce";
+	public static final String RUNDOWN = "Poor condition/ Run down";
+	public static final String UNWILLINGTOSPEND = "Unwilling to spend";
+	public static final String WASTE = "Waste";
+	public static final String LESSINTENSITY = "Lessen in intensity";
+	public static final String RELEVANT = "Relevant";
+	public static final String EXCESS = "Excess";
+	public static final String UNCLEARINMEANING = "Unclear in meaning";
+	public static final String SURE = "Sure/ Certain";
+	public static final String SHORTAGE = "Shortage/ Lack of";
+	public static final String VERYLESS = "Very less";
 
 }
 
